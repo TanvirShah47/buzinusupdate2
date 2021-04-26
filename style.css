@@ -1,0 +1,371 @@
+.contain {
+  background: url("https://assets.website-files.com/5e7ff3ec0c4ef4c974fa99e3/5e83f98bae1ad80129fcd7e5_wu-jianxiong-UniC8xhlzaE-unsplash.jpg");
+  height: 60vh;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  backface-visibility: visible;
+}
+.cards{
+  background-color: black;
+  height: 200px;
+  width: 100%;
+}
+.support-square-image {
+  position: absolute;
+  left: auto;
+  top: 82px;
+  right: -70px;
+  bottom: auto;
+  padding: 10px;
+  box-sizing: border-box;
+  height: auto;
+}
+.triangle {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: -5vh;
+  bottom: -5vh;
+  box-sizing: border-box;
+  height: auto;
+}
+.rectangle {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: -5vh;
+  bottom: -5vh;
+  box-sizing: border-box;
+  height: auto;
+}
+.section1 {
+  margin-bottom: 10vh;
+}
+.cont{
+  background: url("https://assets.website-files.com/5e7ff3ec0c4ef4c974fa99e3/5e83fb3a6948e1f05b20527f_nathan-dumlao-pLoMDKtl-JY-unsplash.jpg");
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.col11 {
+  background: url("https://assets.website-files.com/5e853c3383474026e43f2c78/5e856e41c718420c18dd6751_patrick-hendry-eDgUyGu93Yw-unsplash.jpg");
+  margin-top: 20px;
+  min-width: 33.3vh;
+  height: 60vh;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+.col12 {
+  background: url("https://assets.website-files.com/5e853c3383474026e43f2c78/5e8542c1248e59128e08e3e9_ryan-holloway-JyDmUaXMib4-unsplash.jpg");
+  margin-top: 20px;
+  min-width: 33.3vh;
+  height: 60vh;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+.col13 {
+  background: url("https://assets.website-files.com/5e853c3383474026e43f2c78/5e85425605cae11f20d46181_denisse-leon-J7CjWufjmg4-unsplash.jpg");
+  margin-top: 20px;
+  min-width: 33.3vh;
+  height: 60vh;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+#footer {
+  margin-top: 20px;
+  text-align: center;
+}
+.nav-link:hover{
+  border-radius: 5px;
+  color: black;
+  background-color: white;
+  text-align: center;
+  width: max-content;
+  transform: translate(200);
+}
+.navbar {
+  background-color: red;
+  opacity: 0.9;
+}
+.nav-link{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-weight: 500;
+  font-size: 15px;
+}
+.hero {
+  box-sizing: border-box;
+  position: static;
+  text-align: start;
+  align-items: stretch;
+  color: white;
+  word-wrap: break-word;
+}
+.herop {
+  color: white;
+  box-sizing: border-box;
+  font-size: 20px;
+  word-wrap: break-word;
+  width: auto;
+}
+.button1 {
+  background-color: #ffffff;
+  color: black;
+  font-weight: 900;
+  font-size: 20px;
+  width: min-content;
+  background-origin: border-box;
+  display: flex;
+}
+.button1:hover {
+  background-color: black;
+  color: #ffffff;
+  border-radius: 10px;
+  transition-duration: 1s;
+}
+.ways {
+  justify-content: center;
+  padding: 20px;
+}
+.ways1 {
+  text-align: center;
+}
+.ways2 {
+text-align: center;
+justify-content: center;
+}
+.product {
+  position: static;
+  left: 0px;
+  line-break: strict;
+  box-sizing: border-box;
+  margin-top: 7vh;
+  left: 50vh;
+  min-width: fit-content;
+  box-sizing: content-box;
+  padding-right: 80vh;
+  text-align: center;
+}
+.prag {
+  margin-top: 8vh;
+  box-sizing: border-box;
+  text-align: center;
+  justify-items: center;
+  display: flex;
+  overflow-wrap: break-word;
+}
+.one {
+  color: white;
+  font-size: 30px;
+  font-family: fantasy;
+}
+.two {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin-right: 10vw;
+}
+.three {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin-right: 10vw;
+}
+.one1 {
+  color: white;
+  font-size: 30px;
+  font-family: fantasy;
+}
+.two2 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin-right: 10vw;
+}
+.one5 {
+  color: white;
+  font-size: 30px;
+  font-family: fantasy;
+}
+.two5 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin-right: 10vw;
+}
+.three5 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin-right: 10vw;
+}
+.contp {
+  color: white;
+  margin: 10px;
+}
+.contbt:hover {
+  background-color: greenyellow;
+  height: auto;
+  text-align: center;
+  justify-content: center;
+  transition-duration: 1s;
+}
+.conth {
+  color: white;
+}
+.contbt {
+  text-decoration: none;
+  background-color: white;
+  opacity: 0.9;
+  text-align: right;
+  justify-content: right;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: normal;
+  color: black;
+  transform: perspective(600) translate3d(50px, 50px, 50px);
+}
+.white {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 15px;
+  font-weight: 700;
+}
+.white1 {
+  text-decoration: line-through;
+  color: red;
+  font-size: 15px;
+  font-weight: 700;
+}
+.whitebt {
+  margin-top: 5px;
+  border: 1px solid black;
+  text-decoration: none;
+  background-color: #eb5757;
+  font-size: 14px;
+  color: black;
+  font-weight: 500;
+}
+.whitesale {
+  position: absolute;
+  left: auto;
+  top: 2%;
+  right: 4%;
+  bottom: auto;
+  border-radius: 5px;
+  background-color: #eb5757;
+  font-size: 14px;
+  color: black;
+  font-weight: 500;
+}
+.main {
+  text-align: center;
+  width: content;
+  align-content: center;
+  justify-content: center;
+  display: inline-block;
+  position: relative;
+  left: 30vw;
+  margin-top: 20px;
+  background-color: white;
+}
+.main21 {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.contract {
+  color: white;
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin-top: 15px;
+  background-color: black;
+  font-weight: 600;
+  padding: 7px 25px;
+  border-radius: 5px;
+  font: sans-serif;
+  font-style: sans-serif;
+}
+.contract:hover {
+  background-color: #eb5757;
+  border: 1px solid white;
+  color: black;
+}
+.backf {
+  margin-top: 4vw;
+  background-color: black;
+  height: 100vw;
+  width: 70vw;
+}
+.back {
+  width: 23vw;
+  margin-top: 4vw;
+  height: 100%;
+}
+.sample{
+  width: 90%;
+  max-width: auto;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;  
+}
+  .leftsample{
+  width: 100%;
+  height: 400px;
+  background: url("https://assets.website-files.com/5e7ff3ec0c4ef4c974fa99e3/5e83fe3910db4fde2e69f396_christiann-koepke-dQyS2pMYtok-unsplash%20(1).jpg") no-repeat center / cover;    
+   z-index: 5;
+}
+  .rightsample{
+  border: 1px solid black;
+  width: 100%;
+  max-height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  padding: 30px;
+  margin-left: -100px;
+  color: #ffffff;
+}
+.contentsample{
+  width: 100%;
+  padding: 100px;
+}
+@media only screen and (max-width:768px){
+  .sample{
+      flex-direction: column;
+  }
+  .leftsample{
+      width: 100%;
+      margin: 0px;
+    }
+  .rightsample{
+      width: 100%;
+      margin: 0;
+  }
+  .contentsample{
+      width: 100%;
+      padding: 0px;
+      margin: 0px;
+    }
+    body{
+      margin: 0px;
+    } 
+  }
